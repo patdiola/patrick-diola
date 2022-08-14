@@ -1,0 +1,35 @@
+.container {
+  border-top: var(--space-md) solid var(--primaryA);
+  font-size: var(--text-sm);
+  margin-top: var(--space-xl);
+  padding: var(--space-lg) 0;
+}
+
+.container a {
+  border-bottom: 1.5px solid transparent;
+  font-weight: var(--medium);
+}
+
+.container a:hover {
+  border-bottom-color: var(--primary);
+  color: var(--primary);
+}
+
+.footer-links {
+  padding: 0;
+}
+
+.footer-links li {
+    display: block;
+}
+
+.footer-links a,
+.footer-links a:active,
+.footer-links a:hover,
+.footer-links a:visited,
+.footer-links a:focus {
+  display: inline-block;
+  color: var(--primaryA);
+  margin-bottom: var(--space-sm);
+  border: none;
+}

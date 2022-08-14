@@ -1,0 +1,20 @@
+{
+  "name": "Patrick Diola",
+  "description": "Portfolio site for Patrick Diola - Front End Web Developer",
+  "keywords": [
+    "contentful",
+    "gatsby",
+    "static",
+    "ssg"
+  ],
+  "repository": "https://github.com/patdiola/patrick-diola",
+  "success_url": "/",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static"
+    }
+  ]
+}
