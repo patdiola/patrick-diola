@@ -46,3 +46,7 @@ Run a production build into `./public`. The result is a static site ready to dep
 ### `npm run serve`
 
 Spin up a production-ready server with your blog. Don't forget to build your page beforehand.
+
+### Deploy via Gatsby Cloud
+
+Production Stage: https://patrickdiolamain36024.gatsbyjs.io/
