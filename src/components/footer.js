@@ -31,8 +31,6 @@ const Footer = () => (
         <li><a href="//trello.com" target="_blank" rel="noreferrer">Trello</a> Kanban Style Project Management</li>
         <li><a href="//www.adobe.com/products/photoshop" target="_blank" rel="noreferrer">Adobe Photoshotp</a> Visual Design</li>
       </ul>
-
-      <div>.</div>
     </div>
   </Container>
 )
