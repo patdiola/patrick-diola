@@ -26,7 +26,7 @@ const Footer = () => (
         <li><a href="//nodejs.org" target="_blank" rel="noreferrer">NodeJS</a> Javascrip Server</li>
         <li><a href="//npmjs.com" target="_blank" rel="noreferrer">NPM</a> Package Manager for NodeJS</li>
         <li><a href="//code.visualstudio.com" target="_blank" rel="noreferrer">VS Code</a> Code Editor</li>
-        <li><a href="//docs.microsoft.com/en-us/windows/wsl/install//docs.microsoft.com/en-us/windows/wsl/install" target="_blank" rel="noreferrer">WSL</a> Linux Shell for Windows</li>
+        <li><a href="//docs.microsoft.com/en-us/windows/wsl/install" target="_blank" rel="noreferrer">WSL</a> Linux Shell for Windows</li>
         <li><a href="//ubuntu.com" target="_blank" rel="noreferrer">Ubuntu</a> Linux OS Distribution</li>
         <li><a href="//trello.com" target="_blank" rel="noreferrer">Trello</a> Kanban Style Project Management</li>
         <li><a href="//www.adobe.com/products/photoshop" target="_blank" rel="noreferrer">Adobe Photoshotp</a> Visual Design</li>
