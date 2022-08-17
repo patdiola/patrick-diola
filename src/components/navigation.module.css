@@ -58,6 +58,6 @@
   height: var(--size-logo);
   width: var(--size-logo);
   display: block;
-  background-image: url('/images/pd_icon.webp');
+  background-image: url('/images/pd_icon_1.webp');
   background-size: contain;
 }
