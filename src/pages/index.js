@@ -63,8 +63,11 @@ export const pageQuery = graphql`
         title
         heroImage: image {
           gatsbyImage(
+            layout: FULL_WIDTH
             placeholder: BLURRED
-            width: 1180
+            width: 1280
+            quality: 80
+            formats: [AUTO, WEBP, AVIF]
           )
         }
       }

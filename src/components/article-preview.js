@@ -28,7 +28,7 @@ const ArticlePreview = ({ posts }) => {
                   <img
                     alt=""
                     className={`${styles.previewImage} ${post.heroImageContain ? styles.previewImageContain : ''}`}
-                    src={post.heroImage.url} />
+                    src={`${post.heroImage.url}?w=600&q=80`} />
                 </div>
                 <h2 className={styles.title}>{post.title}</h2>
               </Link>
