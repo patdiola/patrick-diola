@@ -21,8 +21,8 @@ const Footer = () => (
       <ul className={styles.footerLinks}>
         <li><a href="//www.gatsbyjs.com" target="_blank" rel="noreferrer">Gatsby</a> Static Site Generator</li>
         <li><a href="//www.contentful.com" target="_blank" rel="noreferrer">Contentful</a> Headless CMS</li>
-        <li><a href="//reactjs.org" target="_blank" rel="noreferrer">ReactJS</a> Javascrip Framework</li>
-        <li><a href="//github.com/" target="_blank" rel="noreferrer">GitHub</a> Code Repository</li>        
+        <li><a href="//reactjs.org" target="_blank" rel="noreferrer">ReactJS</a> Javascript Framework</li>
+        <li><a href="//github.com/" target="_blank" rel="noreferrer">GitHub</a> Code Repository</li>
         <li><a href="//nodejs.org" target="_blank" rel="noreferrer">NodeJS</a> Javascrip Server</li>
         <li><a href="//npmjs.com" target="_blank" rel="noreferrer">NPM</a> Package Manager for NodeJS</li>
         <li><a href="//code.visualstudio.com" target="_blank" rel="noreferrer">VS Code</a> Code Editor</li>

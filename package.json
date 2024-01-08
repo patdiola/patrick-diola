@@ -12,9 +12,10 @@
     "gatsby": "^4.0.0",
     "gatsby-plugin-gatsby-cloud": "^4.20.0",
     "gatsby-plugin-image": "^2.0.0",
+    "gatsby-plugin-netlify": "^5.1.1",
     "gatsby-plugin-react-helmet": "^5.0.0",
     "gatsby-plugin-sharp": "^4.0.0",
-    "gatsby-source-contentful": "^7.0.0",
+    "gatsby-source-contentful": "^7.23.1",
     "gatsby-transformer-sharp": "^4.0.0",
     "gh-pages": "^3.1.0",
     "lodash": "^4.17.21",
@@ -28,7 +29,7 @@
     "gatsby-provision-contentful": "0.0.3"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=14.21.3"
   },
   "homepage": "https://github.com/contentful/starter-gatsby-blog#readme",
   "keywords": [

@@ -2,6 +2,8 @@
 
 A [Gatsby](http://gatsbyjs.com/) static site powered by [Contentful](https://www.contentful.com).
 
+Gatsby is now part of Netlify. I had to migrate from Gatsby hosting to Netflify hosting.
+
 ## Features
 
 - Contentful [Synchronization Feature](https://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization)
@@ -21,7 +23,7 @@ Known compatibilities:
 ```
 $ git clone https://github.com/patdiola/patrick-diola
 $ npm install
-``` 
+```
 
 ### Set up of the needed content model and create a configuration file
 

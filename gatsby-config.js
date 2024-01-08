@@ -8,6 +8,7 @@ module.exports = {
     description: "Portfolio site for Patrick Diola",
   },
   plugins: [
+    'gatsby-plugin-netlify',
     "gatsby-transformer-sharp",
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-react-helmet",
