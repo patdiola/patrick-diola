@@ -29,11 +29,9 @@ const Footer = () => (
         <li><a href="//docs.microsoft.com/en-us/windows/wsl/install" target="_blank" rel="noreferrer">WSL</a> Linux Shell for Windows</li>
         <li><a href="//ubuntu.com" target="_blank" rel="noreferrer">Ubuntu</a> Linux OS Distribution</li>
         <li><a href="//trello.com" target="_blank" rel="noreferrer">Trello</a> Kanban Style Project Management</li>
-        <li><a href="//www.adobe.com/products/photoshop" target="_blank" rel="noreferrer">Adobe Photoshotp</a> Visual Design</li>
+        <li><a href="//www.adobe.com/products/photoshop" target="_blank" rel="noreferrer">Adobe Photoshop</a> Visual Design</li>
       </ul>
     </div>
-
-    <div>\m/</div>
   </Container>
 )
 

@@ -18,7 +18,7 @@ Getting started with Contentful: [official Contentful getting started guide](htt
 ### Get the source code and install dependencies.
 
 Known compatibilities:
-- node v16.0.0
+- node v18.0.0
 
 ```
 $ git clone https://github.com/patdiola/patrick-diola
